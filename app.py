@@ -22,7 +22,7 @@ def amort_start(rate=4.5, principle=312750, term=360):
     print ""
     print "***********************************************************************"
     print "Here is your monthly payment: ", monthly
-    print "Here is the total amount paid over the life of the loan: ", (monthly * term)
+    print "Here is the total amount paid over [test] the life of the loan: ", (monthly * term)
     print ""
     print "-----------------------------------------------------------------------"
 
